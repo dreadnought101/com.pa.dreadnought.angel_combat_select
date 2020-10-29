@@ -1,0 +1,30 @@
+{
+   "context": "client",
+   "identifier": "com.pa.dreadnought.angel_combat_select",
+   "display_name": "Angel Combat Select",
+   "description": "Lets you select the Angel unit alongside other combat units. ",
+   "author": "Dreadnought",
+   "version": "1.0",
+   "build": "114980",
+   "date": "2020/10/15",
+   "signature": "Dreadnought",
+   "forum": "https://forums.planetaryannihilation.com/threads/client-rel-angel-combat-select.73519/",
+   "category": ["ui", "classic", "titans"],
+   "priority": 100,
+   "icon": "https://i.imgur.com/rK5xLyl.png ",
+   "category": ["unit"],
+    "titansOnly": true,
+    "classicOnly": false,
+    "classic": false,
+    "titans": true,
+	"searchable": [
+        "combat",
+        "Angel",
+        "group",
+        "deselect",
+		"select",
+        "in-game",
+        "explosion",
+        "dreadnought"
+    ]
+ }
