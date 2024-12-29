@@ -10,7 +10,7 @@
     "signature": "Dreadnought",
     "forum": "https://forums.planetaryannihilation.com/threads/client-rel-angel-combat-select.73519/",
     "category": ["ui", "titans", "unit"],
-    "priority": 90,
+    "priority": 550,
     "icon": "https://i.imgur.com/rK5xLyl.png ",
     "titansOnly": true,
     "classicOnly": false,
