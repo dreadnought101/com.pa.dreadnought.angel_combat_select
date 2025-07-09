@@ -186,7 +186,6 @@
         "UNITTYPE_Mobile",
         "UNITTYPE_MissileDefense",
         "UNITTYPE_Advanced",
-        "UNITTYPE_FactoryBuild",
-		"UNITTYPE_Offense"
+        "UNITTYPE_FactoryBuild"
     ]
 }
